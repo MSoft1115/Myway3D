@@ -1,1 +1,0 @@
-将speed sdk的data目录考到这里就能运行sample了
